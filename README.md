@@ -33,7 +33,7 @@
 
   <h2>4. Contact Us</h2>
   <p>If you have any questions about this Privacy Policy, please contact us at:<br>
-  <strong>your-email@domain.com</strong></p>
+  <strong>yardquant@gmail.com</strong></p>
 
   <p>This policy may be updated in the future. We will notify you of any material changes through the app or store listing.</p>
 
